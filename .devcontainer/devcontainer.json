@@ -1,5 +1,5 @@
 {
-  "name": "node-project",
+  "name": "useLocalStorage-bug",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "app",
   "workspaceFolder": "/workspace",
@@ -8,7 +8,9 @@
     "esbenp.prettier-vscode",
     "humao.rest-client",
     "orta.vscode-jest",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin"
   ],
   "forwardPorts": [],
   "remoteUser": "vscode"
